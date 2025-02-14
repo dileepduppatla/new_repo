@@ -1,2 +1,2 @@
 # new_repo
-this is my first repo officially 
+this is my first git repo officially 
