@@ -1,1 +1,1 @@
-echo "hello there! How are you doin!?"
+echo "hello there! How are you doing!?"
